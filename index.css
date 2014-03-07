@@ -2,11 +2,10 @@ body {
 }
 
 #pittsburgh {
-  background: url("logo.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  height: 450px;
+  min-height: 430px;
+}
 
+#linkingpittsburgh {
   text-align: center;
   font-size: 32pt;
   font-family: "Onyx";
@@ -16,4 +15,7 @@ body {
   text-align: center;
   font-size: 24pt;
   font-family: "tahoma";
+}
+
+#social {
 }
