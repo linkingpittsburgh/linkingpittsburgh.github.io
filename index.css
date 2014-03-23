@@ -18,4 +18,11 @@ body {
 }
 
 #social {
+	width: 700px;
+	padding-bottom: 100px;
+}
+
+#social a {
+	color: inherit;
+	font: bold 28px Tahoma;
 }
